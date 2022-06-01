@@ -1,0 +1,6 @@
+project: rust-simple-logger
+target: log
+duration: 90
+
+cmds:
+    - cmd: /log
